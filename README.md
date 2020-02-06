@@ -1,4 +1,4 @@
-# Homework 9: Developer Profile Generator
+# Homework 10: Team Profile Generator
 ## Deployed Application: https://akorjeski.github.io/Team_Profile_Generator/
 ## Github Repository:   https://github.com/akorjeski/Team_Profile_Generator
 ## Technologies: HTML, CSS, Javascript, node.js, NPM, jest
@@ -26,7 +26,7 @@ The project will generate a `team.html` page in the `output` directory, that dis
 
 ### The application will be invoked with the following command:  	__node app.js__  
 
-### Before  you get started, make sure you run __npm install__ to make sure you install all the needed dependencies.  
+### Before  y; Teou get started, make sure you run __npm install__ to make sure you install all the needed dependencies.  
 
 ### Tests can be run with: __npm run test__   
 
