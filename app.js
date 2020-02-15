@@ -1,8 +1,8 @@
 const inquirer = require('inquirer');
 const fs = require("fs");
-const Manager = require('./lib/Manager');
-const Engineer = require('./lib/Engineer');
-const Intern = require('./lib/Intern');
+const Manager = require('./lib/manager');
+const Engineer = require('./lib/engineer');
+const Intern = require('./lib/intern');
 const util = require("util");
 const writeFileAsync = util.promisify(fs.writeFile);
 
